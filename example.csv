@@ -1,0 +1,6 @@
+id,xnat_mrsessiondata_project,xnat_mrsessiondata_subject_id,type,parameters_orientation,xnat_mrsessiondata_session_id
+6,TD,XNAT_S001,t1,Sag,E00438
+8,TD_NUP,S003,t1,Sag,E00544
+6,TD_NUP,S003,t2,Sag,E00546
+8,TD,XNAT_S001,T3,Sag,E00213
+9,TD_2,XNAT_S001,t1,Sag,E00213
